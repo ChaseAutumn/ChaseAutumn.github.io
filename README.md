@@ -5,15 +5,15 @@
 2. Fork  
 ![图片Base64][1]  
 
-//本地修改   
+*本地修改*   
 
 3. 网址：[haha](https://blog.csdn.net/qq_45542879/article/details/116403788)  
 新建文件夹（作为存储库）  
 右键Git Bash Here打开git  
 初始化命令：  
-    git init  
+    '''git init'''
 克隆仓库: 命令：  
-    git clone http:/...  
+    '''git clone http:/...  '''
   
 4. 用vscode打开文件夹中的项目  
 
