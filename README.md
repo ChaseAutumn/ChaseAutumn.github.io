@@ -11,9 +11,9 @@
 新建文件夹（作为存储库）  
 右键Git Bash Here打开git  
 初始化命令：  
-    '''git init'''
+    ```git init```  
 克隆仓库: 命令：  
-    '''git clone http:/...  '''
+    ```git clone http:/... ```  
   
 4. 用vscode打开文件夹中的项目  
 
